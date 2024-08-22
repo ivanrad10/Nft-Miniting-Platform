@@ -62,7 +62,7 @@ This is a NestJS backend server that serves as the core of a dApp, handling even
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ivanrad10/Ceres-tehnicki-zadatak
     ```
 
 2. Navigate to the backend directory:
@@ -117,13 +117,13 @@ The frontend is built with React. It interacts with a smart contract using `wagm
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ivanrad10/Ceres-tehnicki-zadatak
     ```
 
 2. Navigate to the frontend directory:
 
     ```bash
-    cd Backend
+    cd Frontend
     ```
 
 3. Install the dependencies:
