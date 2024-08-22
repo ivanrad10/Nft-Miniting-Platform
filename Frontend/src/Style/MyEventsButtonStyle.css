@@ -1,0 +1,25 @@
+.my-events-button-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px; 
+  }
+
+.my-events-button {
+  margin-bottom: 20px;
+    background-color: #007bff;
+    color: white; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .my-events-button:hover {
+    background-color: #0056b3;
+  }
