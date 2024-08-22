@@ -71,7 +71,7 @@ contract MyNft is ERC721, Ownable {
     }
 
     /**
-     * @dev Modifier that checks if the caller is already registered.
+     * @dev Modifier that checks if the caller is already blacklisted.
      */
     modifier NotBlacklistedAgain(address user) {
         if (s_blackList[user]) {
