@@ -44,7 +44,7 @@ To run the tests:
 forge test
 ```
 
-![Screenshot 2024-08-18 115827](https://github.com/user-attachments/assets/7163a87b-d16c-40cf-a192-8247a5b039b3)
+![Test Coverage](./Test%20Coverage.png)
 
 # NestJS Backend Server
 
